@@ -1,3 +1,4 @@
-# Wordle Pt. 1 Starter
+<<<<<<< HEAD
 
-This is the starter project for iOS 101 Project 1 - Wordle Pt. 1
+# ios101-wordle
+>>>>>>> 046dd2cdcc4fbb29e18937095fc3dad84e2cbab5
