@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-> 🎥 [Loom Walkthrough](https://www.loom.com/share/your-video-link-here)
+https://youtube.com/shorts/LAU62e4k8nI?feature=share
 
 ## Notes
 
