@@ -1,3 +1,4 @@
+
 # Project 2 - Wordle Settings
 
 Submitted by: **Kemely Alfonso**
@@ -30,3 +31,7 @@ Time spent: **4–5 hours**
 ## License
 
 MIT License © 2025 Kemely Alfonso
+
+
+
+
