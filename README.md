@@ -1,6 +1,6 @@
 # Wordle - CodePath iOS101 Project 1
 
-🟩🟨⬛ Recreated the classic Wordle game using Swift and UIKit!
+🟩🟨⬛ Recreated the classic Wordle game using Swift
 
 ## App Walkthrough
 
